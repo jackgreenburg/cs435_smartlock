@@ -153,8 +153,8 @@ As for the web app, it utilizes the built-in accessibility features of the Googl
 
 ### Ethical Implications
 
-Most of the ethical implications of the device are neutral or positive. We have no ability to collect data on the users, so we avoid all issues of privacy. Use of the Google Maps API ensures an equal experience across all kinds of devices and in all locations. The biggest advantage is that the use of this device with middmarkit will make resale much more convenient, thereby encouraging reuse of products. Prolonging the lifespan of items will reduce how much gets thrown away, reducing waste.
-There is still an ethical concern that we have. The use of this device through middmarkit would allow us to cut ourselves out of the process entirely. In theory this sounds like a logical progression in efficiency, but it also opens the door for some people to attempt illicit sales without us having the ability to know about it.
+Most of the ethical implications of the device are neutral or positive. We have no ability to collect data on the users, so we avoid all issues of privacy. Use of the Google Maps API ensures an equal experience across all kinds of devices and in all locations. The biggest advantage is that the use of this device with `middmarkit` will make resale much more convenient, thereby encouraging reuse of products. Prolonging the lifespan of items will reduce how much gets thrown away, reducing waste.
+There is still an ethical concern that we have. The use of this device through `middmarkit` would allow us to cut ourselves out of the process entirely. In theory this sounds like a logical progression in efficiency, but it also opens the door for some people to attempt illicit sales without us having the ability to know about it.
 
 ### Schedule
 
