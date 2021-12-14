@@ -13,6 +13,7 @@ class GPS:
         self.send_command("PMTK314,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0")
         self.send_command("PMTK220,1000")
 
+    # send_command borrowed from https://github.com/adafruit/Adafruit_CircuitPython_GPS/blob/98d505a4db46a97455a592ecc25cd50c4a5f669c/adafruit_gps.py#L288
     def send_command(self, command, add_checksum=True):
         """
         Sends a command to the GPS.

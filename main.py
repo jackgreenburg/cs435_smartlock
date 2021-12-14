@@ -21,7 +21,11 @@ while True:
 
         # Update the display
         logger(str(state))
+
+        # Check to see if their is a waiting message without blocking
         client.check_for_message()
+
+        # Don't check too often
         time.sleep(0.5)
 
     except Exception as e:
