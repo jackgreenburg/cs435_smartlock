@@ -27,11 +27,13 @@ For the locking mechanism, we knew that we would need to have a component that w
 
 At a very high level, our project can be split up into the following categories:
 
+![categories](https://user-images.githubusercontent.com/66453619/146081184-c6f6092a-97f6-4293-8b46-940129ec6272.png)
+
 #### **Backend Infrastructure**
 
 The backend infrastructure of our smart lock is reliant on AWS. We built a small, but easily extensible, API to manage the devices. At its core was the AWS IoT message broker that allowed the devices to communicate with the cloud and publish their current states. This broker also enabled our frontend interface to subscribe to the locks for real time updates.
 
-**INFRASTRUCTURE HERE**
+![infrastructure](https://user-images.githubusercontent.com/66453619/146081705-ebc82099-8fb8-477f-8bbd-2c914adf95c3.png)
 
 Following the flow from a user clicking the “unlock” button, the event loop was as follows:
 
@@ -50,7 +52,7 @@ Boom. A user would be able to see (in real time) when the lock they selected was
 
 #### **Frontend**
 
-**SCREENSHOT HERE**
+![frontend](https://user-images.githubusercontent.com/66453619/146079672-8978348b-93c5-4d94-ba85-a206de40ae46.png)
 
 We built a React app to enable an accessible and beautiful user experience. This allowed use of both desktop and mobile devices to unlock the box. We relied heavily on the Google Maps API to display the current locations of the smart locks.
 
@@ -158,11 +160,11 @@ There is still an ethical concern that we have. The use of this device through m
 
 We originally planned to follow this schedule where we budgeted the most time to connect the device to the cloud.
 
-**FIRST SCHEDULE HERE**
+![original_plan](https://user-images.githubusercontent.com/66453619/146081780-4a85d38f-1509-461e-bca9-0f1010e33daa.png)
 
 However, due to the parts arriving at the beginning of week 4, we spent a lot of time building the web application, ensuring that the user experience would be awesome.
 
-**SECOND SCHEDULE HERE**
+![actual_plan](https://user-images.githubusercontent.com/66453619/146081827-261e39ac-ff3a-4885-8d8e-5e833cc9d3f3.png)
 
 ---
 
