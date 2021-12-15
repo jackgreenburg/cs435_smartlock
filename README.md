@@ -190,5 +190,16 @@ Ultimately, we were super stoked about our project and had a lot of fun locking 
 ---
 
 ### References
+Code references:
+- https://docs.micropython.org
+- https://www.adafruit.com/
+- https://medium.com/serverlessguru/serverless-real-time-reactjs-app-aws-iot-mqtt-17d023954045
+- https://forum.micropython.org/viewtopic.php?t=5166
+- https://github.com/nemart69/sh1107-micropython
+- http://freenmea.net/decoder
+- Andrea Vaccari!
 
-**REF HERE**
+3D printed components:
+- https://youtube.com/watch?v=2vAoOYF3m8U
+- https://thingiverse.com/thing:4783423
+
