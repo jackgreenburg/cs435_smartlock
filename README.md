@@ -141,8 +141,8 @@ In each loop:
 
 ### Result
 
-Gifs (split into parts, one for each feature)
-Failings (issues page, autolock because box jank (include gif of me holding lid down) )
+[![Thumbnail](https://user-images.githubusercontent.com/66453619/146494101-5db36f44-caae-4b92-87fe-6fbc28373331.jpg)](https://youtu.be/GUTswQk9gZA "Smartlock Demo")
+
 
 ---
 
